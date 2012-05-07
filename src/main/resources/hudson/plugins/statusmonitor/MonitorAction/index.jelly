@@ -82,8 +82,8 @@
 
 
         .SUCCESS * {
-            background-color: #BFD4FF;
-            color: #0041C4;
+            background-color: #00FF00;
+            color: #00CC00;
         }
 
         .FAILURE * {
