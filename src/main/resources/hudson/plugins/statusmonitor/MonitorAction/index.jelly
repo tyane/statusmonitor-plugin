@@ -82,13 +82,13 @@
 
 
         .SUCCESS * {
-            background-color: #00FF00;
-            color: #00CC00;
+            background-color: #00CC66;
+            color: #000000;
         }
 
         .FAILURE * {
-            background-color: #FF9180;
-            color: #B30700;
+            background-color: #FF0000;
+            color: #000000;
         }
 
         .UNSTABLE * {
